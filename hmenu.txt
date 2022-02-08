@@ -7,4 +7,3 @@ Some of them are added by me and others are from PyDOS.
 3. fsedit.py - Text editor (pye).
 4. fileview.py - Text viewer.
 5. calculator.py - Calculator app.
-6. dosy.py - An alternative to the menu. Very cool!
