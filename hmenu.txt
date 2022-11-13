@@ -1,9 +1,0 @@
-Welcome to the homebrew menu!
-Here you will find cool apps and games.
-Some of them are added by me and others are from PyDOS.
-
-1. gtngame.py - A guess the number game.
-2. rollthedice.py - A simple roll the dice game.
-3. fsedit.py - Text editor (pye).
-4. fileview.py - Text viewer.
-5. calculator.py - Calculator app.
